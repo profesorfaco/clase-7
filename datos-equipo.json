@@ -1,0 +1,25 @@
+[{
+		"nombre": "Udo",
+		"foto":"img/udo.jpg",
+		"cargo": "Historias",
+		"twitter": "#",
+		"mail": "#",
+		"instagram": "#"
+	},
+	{
+		"nombre": "Fran",
+		"foto":"img/fran.jpg",
+		"cargo": "Difusiones",
+		"twitter": "#",
+		"mail": "#",
+		"instagram": "#"
+	},
+	{
+		"nombre": "Rodrigo",
+		"foto":"img/rodrigo.jpg",		
+		"cargo": "Vialidad",
+		"twitter": "#",
+		"mail": "#",
+		"instagram": "#"
+	}
+]
