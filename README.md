@@ -1,11 +1,13 @@
 # Fran <3
 ### Clase 7
 
-#### Prueba
-
-Indicaciones:
+#### Indicaciones:
 
 - comienza el trabajo con un *Fork* de este repositorio;
+
+- organiza los archivos de JavaScript metiéndolos dentro de una nueva carpeta;
+
+- modifica el index.html para que vincule los scripts que estarán dentro de tal carpeta;
 
 - edita la información de la página hasta completarla; y
 
