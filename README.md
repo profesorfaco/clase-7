@@ -7,7 +7,7 @@ Indicaciones:
 
 - comienza el trabajo con un *Fork* de este repositorio;
 
-- edita la información de la página para completarla; y
+- edita la información de la página hasta completarla; y
 
 - modifica este README para: 
 
