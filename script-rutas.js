@@ -42,7 +42,8 @@ $(document).ready(function(){
 				decima + 
 				data[a]["texto"] + 
 				onceava
-				);
+				);			
 		}
+		$( "ul#rutas" ).append("<li class=\"timeline-inverted\"><div class=\"timeline-image\"><h4>Until<br>the<br>pico</h4></div></li>");
 	});
 });
