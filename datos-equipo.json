@@ -1,5 +1,5 @@
 [{
-		"nombre": "Udo",
+		"nombre": "Udo …",
 		"foto":"img/udo.jpg",
 		"cargo": "Cargo",
 		"twitter": "https://twitter.com/",
@@ -7,7 +7,7 @@
 		"instagram": "https://www.instagram.com/"
 	},
 	{
-		"nombre": "Fran",
+		"nombre": "Fran …",
 		"foto":"img/fran.jpg",
 		"cargo": "Cargo",
 		"twitter": "https://twitter.com/",
@@ -15,7 +15,7 @@
 		"instagram": "https://www.instagram.com/"
 	},
 	{
-		"nombre": "Rodrigo",
+		"nombre": "Rodrigo …",
 		"foto":"img/rodrigo.jpg",		
 		"cargo": "Cargo",
 		"twitter": "https://twitter.com/",
