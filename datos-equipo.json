@@ -1,25 +1,25 @@
 [{
 		"nombre": "Udo",
 		"foto":"img/udo.jpg",
-		"cargo": "Historias",
-		"twitter": "#",
-		"mail": "#",
-		"instagram": "#"
+		"cargo": "Cargo",
+		"twitter": "https://twitter.com/",
+		"mail": "mailto:mail@mail.com",
+		"instagram": "https://www.instagram.com/"
 	},
 	{
 		"nombre": "Fran",
 		"foto":"img/fran.jpg",
-		"cargo": "Difusiones",
-		"twitter": "#",
-		"mail": "#",
-		"instagram": "#"
+		"cargo": "Cargo",
+		"twitter": "https://twitter.com/",
+		"mail": "mailto:mail@mail.com",
+		"instagram": "https://www.instagram.com/"
 	},
 	{
 		"nombre": "Rodrigo",
 		"foto":"img/rodrigo.jpg",		
-		"cargo": "Pedaleos",
-		"twitter": "#",
-		"mail": "#",
-		"instagram": "#"
+		"cargo": "Cargo",
+		"twitter": "https://twitter.com/",
+		"mail": "mailto:mail@mail.com",
+		"instagram": "https://www.instagram.com/"
 	}
 ]
