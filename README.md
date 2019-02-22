@@ -3,9 +3,13 @@
 
 #### Prueba
 
-- Completa la página web con los contenidos correspondientes (deja el "Newsletter" sin programar)
+Indicaciones:
 
-- Modifica este README para: 
+- comienza el trabajo con un *Fork* de este repositorio;
+
+- edita la información de la página para completarla; y
+
+- modifica este README para: 
 
   - indicar cuáles son los *themes* de [Start Bootstrap](https://startbootstrap.com/themes/landing-pages/) utilizados para contruir la página web. 
 
