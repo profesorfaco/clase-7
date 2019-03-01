@@ -1,0 +1,4 @@
+id,nombre,foto,cargo,twitter,mail,instagram
+1,"""Udo Peréz Cruz""",img/udo.jpg,"""Alma libre""",https://twitter.com/ElZiudadano,mailto:udo@lostbicitantes.cl,https://www.instagram.com/ziudadano/
+2,"""Fran Génova""",img/fran.jpg,"""Hinchapelotas, web y RRSS""",https://twitter.com/lostbicitantes,mailto:fran@lostbicitantes.cl,https://www.instagram.com/diseam
+3,"""Rodrigo Feroz""",img/rodrigo.jpg,"""Logística""",https://twitter.com/agoucha,mailto:rodrigo@lostbicitantes.cl,https://www.instagram.com/rodrigo_feroz/
